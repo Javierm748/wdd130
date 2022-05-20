@@ -1,0 +1,40 @@
+header img {
+    width: 80%;
+    margin: 0px;
+    display: block;
+    box-sizing: border-box;
+}
+
+p {
+    width: 80%;
+    padding: 30px;
+    margin: 0px;
+    background-color: gray;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#desk {
+    border-radius: 50%;
+    border: 10px solid rgb(76, 73, 73);
+    width: 150px;
+    margin: 20px;
+
+
+}
+
+#graphic{
+    border-radius: 50%;
+    border: 10px solid rgb(76, 73, 73);
+    width: 150px;
+    margin: 20px;
+
+}
+
+#person {
+    border-radius: 50%;
+    border: 10px solid rgb(76, 73, 73);
+    width: 150px;
+    margin: 20px;
+
+}
