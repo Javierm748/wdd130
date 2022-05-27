@@ -46,7 +46,7 @@ box-sizing: border-box;
 
 body {
     background-color: #219ebc;
-    font-family: Bebas Neue;
+    font-family: "Bebas Neue", Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -98,7 +98,7 @@ footer{
 .home-title{
     background-color: #8ecae6;
     color: black;
-    font-family: Bebas Neue;
+    font-family: "Bebas Neue", Arial, sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -111,7 +111,7 @@ h4{
 .msg h2{
     background-color: #8ecae6;
     color: black; 
-    font-family: "Bebas Neue";
+    font-family: "Bebas Neue", Arial, sans-serif;
 }
 
 .msg p {
