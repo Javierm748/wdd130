@@ -4,7 +4,7 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Tai+Heritage+Pro&display=swap');
 
 :root {
-  /* change the values below to your colors from your palette */
+  /* change the values below to your colors from your palette  */
   --primary-color: #0A0908   ;
   --secondary-color: #F2F4F3 ;
   --accent1-color: #A9927D;
